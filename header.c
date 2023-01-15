@@ -16,3 +16,7 @@ void helloWorld(void)
 {
     printf("Hello world!\n");
 }
+void function_new_branch(void)
+{
+    printf("Function in new branch!\n");
+}

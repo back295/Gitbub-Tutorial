@@ -10,5 +10,5 @@ typedef struct header
 
 header_t *function1(uint8_t num1, uint8_t num2);
 void helloWorld(void);
-
+void function_new_branch(void);
 #endif

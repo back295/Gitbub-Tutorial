@@ -9,5 +9,6 @@ int main()
     printf("Sum Result: %d\n",res->a);
     printf("Minus Result: %d\n",res->b);
     helloWorld();
+    function_new_branch();
     return 0;
 }
