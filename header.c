@@ -20,3 +20,7 @@ void function_new_branch(void)
 {
     printf("Function in new branch!\n");
 }
+void function_fix_bug(void)
+{
+    printf("Function in fix bug branch!\n");
+}
